@@ -1,6 +1,6 @@
 # RayTracing_HW
-This is the homework files of cis summer program.
-Implemented: ray-triangle test, Sphere-triangle test, Shading, Tracing  
+This is the homework files of cis summer program.  
+Implemented ray-triangle test, Sphere-triangle test, Shading, Tracing.  
 Problems occured:  
 Was in trouble of calculating refraction. Solve by learning from a blog.  
 What I learned:  
